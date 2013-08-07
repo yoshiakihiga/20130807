@@ -4,4 +4,3 @@ aaaaaaaa
 higa
 midashi
 higa
-higa
